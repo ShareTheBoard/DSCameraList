@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\DirectShowLib\DirectShowLib\DirectShowLib.csproj" />
+    <ProjectReference Include="..\DirectShowLib\DirectShowLib\DirectShowLib.csproj" />
   </ItemGroup>
 
 </Project>
