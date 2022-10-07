@@ -1,0 +1,3 @@
+[submodule "DirectShowLib"]
+	path = DirectShowLib
+	url = https://github.com/ShareTheBoard/DirectShowLib
